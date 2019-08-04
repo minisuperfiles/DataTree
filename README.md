@@ -23,7 +23,7 @@ data = { name: 'name', d[ { name: 'name', d[{...}] ,...}] }
 </code></pre>
                 
 <h5>element</h5>
-<p>Target get element to create the DataTree.</p><br>
+<p>Target get element to create the DataTree.</p>
 <h5>data (Optional)</h5>
 <p>Target get element to create the DataTree.</p>
 <h5>warning (Optional)</h5>
