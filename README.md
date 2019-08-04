@@ -1,6 +1,6 @@
 # DataTree
 DataTree (Tree data handler). It's pure JavaScript framework and its handle large tree typies of data. dataTree is use to simple, fast and lite weight.
-                  
+<h5>Example Code</h5>              
 <pre><code>
 var tree= new DataTree(
   document.querySelector('#datatree'),
