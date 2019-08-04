@@ -6,10 +6,10 @@ var tree= new DataTree(
   document.querySelector('#datatree'),
   {name:'Creatures',d:[
     {name:'Animals',d:[]},
-    {name:'Humans',d:[{name:'Women',d:[]},
-                      {name:'Men',d:[]}
-                    ]},
-     {name:'Brids',d:[]}
+    {name:'Humans',
+        d:[{name:'Women',d:[]}, {name:'Men',d:[]}]
+    },
+    {name:'Brids',d:[]}
   ]}
 );
  </code></pre>
