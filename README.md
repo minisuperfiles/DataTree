@@ -30,7 +30,7 @@ data = { name: 'name', d[ { name: 'name', d[{...}] ,...}] }
 <p>It's booleen data type (true or false) and default value is true. confirm message control parameter. If given value is true, when try to delete data confirm popup asking 'Are sure to delete'. </p>
 <h5>DataTree Methods</h5>
 <h6><u>DataTree.getData()</u></h6>
-<p>It's use to get data of DataTree and its retrun object. print to console log </p>
+<p>It's use to get data of DataTree and its retrun object.</p>
 <h6><u>DataTree.render()</u></h6>
 <p>It's use to reprint html element.</p>
 <a target="_blank" href="https://minisuperfiles.blogspot.com/p/documentation.html?project=datatree" >More information (Demo)</a>
