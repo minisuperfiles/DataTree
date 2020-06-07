@@ -25,7 +25,7 @@ data = { name: 'name', d[ { name: 'name', d[{...}] ,...}] }
 <h5>element</h5>
 <p>Give DOM element, this element is target place to create DataTree.</p>
 <h5>data (Optional)</h5>
-<p>Give Array, It's use to load DataTree conent of the data.</p>
+<p>Give object, It's use to load DataTree conent of the data.</p>
 <h5>warning (Optional)</h5>
 <p>It's booleen data type (true or false) and default value is true. confirm message control parameter. If given value is true, when try to delete data confirm popup asking 'Are sure to delete'. </p>
 <h5>DataTree Methods</h5>
