@@ -2,6 +2,10 @@
 DataTree (Tree data handler). It's pure JavaScript framework and its handle large tree typies of data. dataTree is use to simple, fast and lite weight. CRUD (Create, Read, Update, Delete) options available.
 <h5>Example Code</h5>              
 <pre><code>
+&lt;script src="DataTree.js"&gt;&lt;/script&gt;
+&lt;link href="DataTree.css"&gt;
+&lt;div id="datatree"&gt;&lt;/div&gt;
+&lt;script&gt;
 var tree= new DataTree(
   document.querySelector('#datatree'),
   {name:'Creatures',d:[
@@ -12,6 +16,7 @@ var tree= new DataTree(
     {name:'Brids',d:[]}
   ]}
 );
+&lt;/script&gt;
  </code></pre>
  <h5>Syntax (parameter)</h5>
  <pre><code>
