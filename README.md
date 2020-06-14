@@ -29,10 +29,10 @@ data = { name: 'name', d[ { name: 'name', d[{...}] ,...}] }
 <h5>warning (Optional)</h5>
 <p>It's booleen data type (true or false) and default value is true. confirm message control parameter. If given value is true, when try to delete data confirm popup asking 'Are sure to delete'. </p>
 <h5>DataTree Methods</h5>
-<h6><u>DataTree.getData()</u></h6>
-<p>It's use to get data of DataTree and its retrun object.</p>
-<h6><u>DataTree.render()</u></h6>
-<p>It's use to reprint html element.</p>
+<dl><dt><code>DataTree.getData()</code><dt>
+<dd>It's use to get data of DataTree and its retrun object. <ul>
+<li><b>code</b> : <code>tree.getData();</code></li></ul></dd><dt><code>DataTree.render()</code><dt>
+<dd>It's use to reprint html element.<ul><li><b>code</b> : <code>tree.render();</code></li></ul></dd></dl>
 
 <a target="_blank" href="https://minisuperfiles.blogspot.com/p/documentation.html?project=datatree" >View Documentation (Demo)</a>
 <p>Learn more about in <a target="_blank" href="https://minisuperfiles.blogspot.com" >minisuperfiles.blogspot.com</a></p>
