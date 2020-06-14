@@ -33,4 +33,4 @@ data = { name: 'name', d[ { name: 'name', d[{...}] ,...}] }
 <p>It's use to get data of DataTree and its retrun object.</p>
 <h6><u>DataTree.render()</u></h6>
 <p>It's use to reprint html element.</p>
-<a target="_blank" href="https://minisuperfiles.blogspot.com/p/documentation.html?project=datatree" >More information (Demo)</a>
+<a target="_blank" href="https://minisuperfiles.blogspot.com/p/documentation.html?project=datatree" >Full Documentation (Demo)</a>
