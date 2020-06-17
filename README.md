@@ -1,5 +1,5 @@
 # DataTree
-DataTree (Tree data handler). It's pure JavaScript framework and its handle large tree typies of data. dataTree is use to simple, fast and lite weight. CRUD (Create, Read, Update, Delete) options available.
+It's a pure JavaScript framework and it handles large tree types of data. dataTree is used to simple, fast, and lite weight. CRUD (Create, Read, Update, Delete) options available.
 <h5>Example Code</h5>              
 <pre><code>
 &lt;script src="DataTree.js"&gt;&lt;/script&gt;
