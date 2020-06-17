@@ -28,14 +28,14 @@ data = { name: 'name', d[ { name: 'name', d[{...}] ,...}] }
 </code></pre>
                 
 <h5>element</h5>
-<p>Give DOM element, this element is target place to create DataTree.</p>
+<p>Give DOM element, this element is the target place to create DataTree.</p>
 <h5>data (Optional)</h5>
-<p>Give object, It's use to load DataTree conent of the data.</p>
+<p>Give object, It's used to load DataTree content of the data.</p>
 <h5>warning (Optional)</h5>
-<p>It's booleen data type (true or false) and default value is true. confirm message control parameter. If given value is true, when try to delete data confirm popup asking 'Are sure to delete'. </p>
+<p>It's a boolean data type (true or false) and the default value is true. confirm the message control parameter. If the given value is true. when try to delete data confirm popup asking 'Are sure to delete'.</p>
 <h5>DataTree Methods</h5>
 <dl><dt><code>DataTree.getData()</code><dt>
-<dd>It's use to get data of DataTree and its retrun object. <ul>
+<dd>It's used to get data of DataTree and its return object.<ul>
 <li><b>code</b> : <code>tree.getData();</code></li></ul></dd><dt><code>DataTree.render()</code><dt>
 <dd>It's use to reprint html element.<ul><li><b>code</b> : <code>tree.render();</code></li></ul></dd></dl>
 
